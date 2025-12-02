@@ -6,7 +6,7 @@ import 'package:http/http.dart' as http;
 import 'package:stream/youtube_auth_service.dart';
 
 const SERVER =
-    "http://192.168.1.17:5050"; // change to http://<PC_IP>:8080 on real device
+    "http://192.168.1.23:5050"; // change to http://<PC_IP>:8080 on real device
 
 void main() => runApp(const MyApp());
 
